@@ -16,6 +16,13 @@ Key objectives of this project include:
 - **Modeling & Prediction**: Building predictive models to assess the risk of loan default and factors influencing loan repayment.
 - **Visualization**: Creating dashboards and reports to present findings and support decision-making for risk management and loan strategy improvements.
 
+![image](https://github.com/user-attachments/assets/b0cf4039-9a2b-4a1c-8af8-995739cc4a03)
+
+![image](https://github.com/user-attachments/assets/9aab2a1b-94a6-40eb-af09-81132db54716)
+
+![image](https://github.com/user-attachments/assets/4506edc9-663f-4ce5-9282-0751e7ba52b1)
+
+
 ## Tools and Technologies:
 - **SQL**: For querying and managing loan data.
 - **Power BI**: For visualizing loan-related data and creating interactive dashboards.
